@@ -29,7 +29,6 @@ database_id = "0f330c88-0c95-4832-b3fc-23ab15fa5491"
 
 [[kv_namespaces]]
 binding = "FILES_KV"
-id = "4cf3d66e66e141248e6a7bbaaf03b1b6"
 
 [[kv_namespaces]]
 binding = "OAUTH_KV"
